@@ -1,3 +1,4 @@
+/* C program to perform arithmetic operation(+,-,*,/) */
 #include <stdio.h>
 
 int main()
